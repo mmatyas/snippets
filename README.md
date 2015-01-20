@@ -1,3 +1,3 @@
 # Snippets
 
-- udvaslas.pl: Udvarlás generátor a [timiesmazsi](timiesmazsi.uw.hu/udvarlas.html) alapján
+- udvaslas.pl: Udvarlás generátor a [timiesmazsi](http://timiesmazsi.uw.hu/udvarlas.html) alapján
