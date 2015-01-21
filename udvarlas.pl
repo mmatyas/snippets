@@ -30,7 +30,7 @@ my @f_3 = ("olyan vagy mint",
 
 my @f_4 = ("a legdrágább kincs",
 		"az égbolt tengerén tündöklõ Nap",
-		"a csillogó csillagok",
+		"a csillogó csillag",
 		"a hûsítõ nyári zápor",
 		"az éjszakát bevilágító telihold",
 		"a gyémánt");
@@ -45,7 +45,6 @@ my @f_6 = ("szeretném",
 		"annyira akarnám",
 		"annyira imádnám",
 		"úgy vágynám",
-		"vállalnám én",
 		"megpróbálnám",
 		"jó lenne",
 		"jól esne",
@@ -59,8 +58,7 @@ my @f_7 = ("megcsókolni rózsás orcádat",
 		"érezni hajad kókusz-illatát",
 		"az érzést elmerülni szemeid tavában",
 		"felkorbácsolni érzékeidet",
-		"elnyerni szerelmedet",
-		"a halált is érted");
+		"elnyerni szerelmedet");
 
 my @f_8 = ("csak egy kicsit",
 		"egyszer",
@@ -76,8 +74,9 @@ my @f_9 = ("ahol akarod",
 		"valamikor",
 		"mindörökké",
 		"az idõk végezetéig",
+		"teljes ovulációs ciklusod alatt",
 		"tomboló viharban",
-		"a tejúj hófehér porán",
+		"a tejút hófehér porán",
 		"napfény áztatta réten");
 
 my @f10 = ("a karjaimba",
@@ -95,14 +94,16 @@ my @f11 = ("legkedvesebb",
 my @f12 = ("lázban égõ",
 		"csak Téged imádó",
 		"vágytól remegõ",
-		"vacsorára hívogató");
+		"vacsorára hívogató",
+		"200%-os");
 
 my @f13 = ("szerelmesed",
 		"izompacsirtád",
 		"szexrabszolgád",
 		"micimackód",
 		"quasimodod",
-		"szíved csücske");
+		"szíved csücske"
+		"csokikád");
 
 my $szoveg = 'Te '. $f_1[int(rand(scalar @f_1))]
 			. ' ' . $f_2[int(rand(scalar @f_2))]
