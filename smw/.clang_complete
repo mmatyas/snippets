@@ -1,0 +1,15 @@
+-D_GNU_SOURCE=1
+-D_REENTRANT
+-I/home/mmatyas/DEV/supermariowar/src/common
+-I/home/mmatyas/DEV/supermariowar/src/smw
+-I/usr/include/SDL
+-I/usr/bin/../lib/gcc/x86_64-linux-gnu/4.8/../../../../include/c++/4.8
+-I/usr/bin/../lib/gcc/x86_64-linux-gnu/4.8/../../../../include/c++/4.8/x86_64-linux-gnu
+-I/usr/bin/../lib/gcc/x86_64-linux-gnu/4.8/../../../../include/c++/4.8/backward
+-I/usr/bin/../lib/gcc/x86_64-linux-gnu/4.8/../../../../include/x86_64-linux-gnu/c++/4.8
+-I/usr/local/include
+-I/usr/bin/../lib/clang/3.4/include
+-I/usr/bin/../lib/gcc/x86_64-linux-gnu/4.8/include
+-I/usr/include/x86_64-linux-gnu
+-I/include
+-I/usr/include
