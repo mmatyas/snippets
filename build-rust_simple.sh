@@ -11,6 +11,7 @@ fi
 
 cd rust
 git pull
+git submodule update
 
 mkdir -p build
 cd build
